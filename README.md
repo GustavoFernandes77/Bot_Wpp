@@ -86,6 +86,7 @@ Execute o arquivo `main.py` para gerenciar clientes.
 ```bash
 python main.py
 ```
+![main_captura](https://github.com/user-attachments/assets/43300cbd-5101-4ec6-8bca-867241a102a5)
 
 ## 📌 Envio de Mensagens
 Execute o arquivo `app.py` para enviar mensagens automáticas.
@@ -93,6 +94,7 @@ Execute o arquivo `app.py` para enviar mensagens automáticas.
 ```bash
 python app.py
 ```
+![app_captura](https://github.com/user-attachments/assets/23482b21-f6e9-4022-8fa0-f2afb7ca4a01)
 
 ---
 
@@ -116,4 +118,5 @@ Este projeto é licenciado sob a licença MIT.
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests*.
+
 
