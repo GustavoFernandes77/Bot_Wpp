@@ -6,7 +6,7 @@ from datetime import datetime
 
 # Caminho do novo arquivo Excel
 path = r"'''Caminho do arquivo Excel'''"
-
+# Comentario Edgar
 def create_new_file():
     """Cria um novo arquivo Excel com os cabeçalhos se o arquivo não existir"""
     if not os.path.exists(path):
